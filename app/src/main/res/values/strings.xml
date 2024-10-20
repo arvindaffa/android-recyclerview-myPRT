@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">myPRT</string>
+    <string name="prt_name">Nama PRT</string>
+    <string name="location">Lokasi</string>
+    <string name="age">umur</string>
+    <string name="rating">rating</string>
+    <string name="object_received">Berhasil pindah activity</string>
+
+    <string-array name="data_name">
+        <item>Andi</item>
+        <item>Geri</item>
+        <item>Irene</item>
+        <item>Jose</item>
+        <item>Luke</item>
+        <item>Maria</item>
+        <item>Pablo</item>
+        <item>Rey</item>
+        <item>Rina</item>
+        <item>Thomas</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Surabaya, 20 tahun, 4.5/5</item>
+        <item>Sidoarjo, 24 tahun, 4.6/5</item>
+        <item>Malang, 28 tahun, 4.3/5</item>
+        <item>Mojokerto, 25 tahun, 4.7/5</item>
+        <item>Pasuruan, 22 tahun, 4.4/5</item>
+        <item>Gresik, 24 tahun, 4.6/5</item>
+        <item>Tuban, 30 tahun, 4.8/5</item>
+        <item>Surabaya, 23 tahun, 4.3/5</item>
+        <item>Sidoarjo, 21 tahun, 4.6/5</item>
+        <item>Jombang, 27 tahun, 4.9/5</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/andi</item>
+        <item>@drawable/geri</item>
+        <item>@drawable/irene</item>
+        <item>@drawable/jose</item>
+        <item>@drawable/luke</item>
+        <item>@drawable/maria</item>
+        <item>@drawable/pablo</item>
+        <item>@drawable/rey</item>
+        <item>@drawable/rina</item>
+        <item>@drawable/thomas</item>
+    </integer-array>
+
+    <string-array name="data_resume">
+        <item>Andi adalah pekerja rumah tangga yang berpengalaman dengan keahlian utama dalam membersihkan dan merawat rumah. Dia telah bekerja selama 5 tahun dan memiliki pengetahuan yang baik tentang produk pembersih yang efektif. Andi dapat bekerja dengan cepat dan efisien, serta sangat rajin dalam menjalankan tugasnya. Selain itu, dia juga memiliki kemampuan komunikasi yang baik dengan majikan dan mampu bekerja di bawah tekanan.</item>
+        <item>Geri adalah asisten rumah tangga yang handal dengan keterampilan memasak yang luar biasa. Dia memiliki pengalaman dalam menyajikan hidangan lezat dan sehat sesuai dengan keinginan keluarga. Selain itu, Geri juga ahli dalam menjaga kebersihan rumah dan memberikan perhatian khusus pada detail. Dia adalah orang yang dapat diandalkan dan selalu berusaha memberikan pelayanan terbaik kepada majikan.</item>
+        <item>Irene adalah pekerja rumah tangga yang energetik dan penuh inisiatif. Dengan pengalaman lebih dari 7 tahun, Irene tidak hanya terampil dalam membersihkan rumah tetapi juga dapat mengatur tata letak ruangan dengan baik. Dia memiliki kemampuan organisasi yang kuat dan mampu menyelesaikan pekerjaan dengan efisien. Irene adalah pilihan yang baik untuk keluarga yang mencari asisten rumah tangga yang dapat membantu dalam berbagai aspek kehidupan sehari-hari.</item>
+        <item>Jose adalah pekerja rumah tangga yang memiliki keahlian dalam merawat taman dan halaman. Dengan pengetahuan yang luas tentang tanaman dan bunga, Jose dapat menciptakan taman yang indah dan sehat. Selain itu, dia juga memiliki keterampilan dalam pemeliharaan alat-alat kebun. Jose adalah pilihan yang tepat bagi keluarga yang menginginkan lingkungan rumah yang hijau dan nyaman.</item>
+        <item>Luke adalah asisten rumah tangga yang sangat bertanggung jawab dan dapat diandalkan. Dengan pengalaman lebih dari 6 tahun, Luke memiliki keahlian khusus dalam merawat anak-anak. Dia dapat menciptakan aktivitas yang edukatif dan menyenangkan untuk anak-anak. Luke juga pandai memasak hidangan lezat yang disukai oleh anak-anak. Keluarga yang memiliki anak-anak kecil akan merasa nyaman dengan kehadiran Luke di rumah.</item>
+        <item>Maria adalah pekerja rumah tangga yang ahli dalam tugas-tugas rutin rumah tangga. Dengan kecepatan dan kehati-hatian, Maria dapat menyelesaikan pekerjaan rumah dengan baik. Dia juga memiliki keahlian dalam menata ruangan dan membuat rumah terlihat rapi. Maria adalah pilihan yang tepat bagi keluarga yang menginginkan asisten rumah tangga yang efisien dan teliti.</item>
+        <item>Pablo adalah asisten rumah tangga yang kreatif dan pandai dalam seni dekorasi. Dia memiliki pengalaman dalam mengubah ruangan menjadi tempat yang nyaman dan estetis. Selain itu, Pablo juga pandai dalam merawat hewan peliharaan. Bagi keluarga yang menghargai keindahan rumah dan memiliki hewan peliharaan, Pablo adalah pilihan yang sempurna.</item>
+        <item>Rey adalah pekerja rumah tangga yang memiliki keterampilan komunikasi yang baik. Dengan pengalaman melayani keluarga-keluarga berbeda, Rey dapat dengan cepat beradaptasi dengan kebutuhan majikan. Dia adalah orang yang ramah dan mudah bergaul, menjadikannya pilihan yang baik untuk keluarga yang menginginkan asisten rumah tangga yang dapat menjadi bagian dari lingkungan keluarga.</item>
+        <item>Rina adalah asisten rumah tangga dengan kemampuan multitasking yang baik. Dia dapat menjalankan berbagai tugas dengan efisien, mulai dari membersihkan rumah hingga memasak hidangan lezat. Rina juga memiliki keahlian khusus dalam merawat tanaman hias dan bunga. Keluarga yang mencari asisten rumah tangga yang dapat menangani berbagai pekerjaan sekaligus akan puas dengan pilihan Rina.</item>
+        <item>Thomas adalah pekerja rumah tangga yang berpengalaman dalam merawat anak-anak dan orang lanjut usia. Dia memiliki keahlian khusus dalam memberikan perhatian ekstra kepada kelompok usia ini. Thomas juga dapat memberikan bantuan dalam memenuhi kebutuhan khusus, seperti merawat anak yang sedang sakit atau memberikan pendampingan kepada orang lanjut usia. Keluarga yang memiliki anggota keluarga dalam kelompok usia ini akan merasa aman dengan kehadiran Thomas di rumah.</item>
+    </string-array>
+
+</resources>
